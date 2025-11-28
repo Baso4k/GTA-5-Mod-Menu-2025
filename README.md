@@ -3,7 +3,7 @@
 
 <img width="866" height="947" alt="menu-preview" src="https://github.com/user-attachments/assets/8869ac41-a064-4c23-b0c9-29959482550f" />
 
-# 💥 GTA5 EXPLOSIVE Private ModMENU [NOVEMBER 2025] ✨
+# 💥 GTA5 EXPLOSIVE ModMenu ✨
 
 ## Repository Topics
 🔥 Here are some of the exciting topics related to our GTA 5 Mod Menu:
